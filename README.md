@@ -1,6 +1,6 @@
 discourse-xorigin
 =================
 
-Sets the X-ORIGIN headers for a discourse install to ALLOWALL. Allows for embedding of content in external websites.
+Sets the X-ORIGIN headers for a discourse install to notes.ethereum.org. Allows for embedding ethresear.ch content into notes.ethereum.org
 
-Remember to set *change site cookies* to *Disabled*
+If you want to mantain logged-in state, remember to change *change site cookies* to *Disabled*
